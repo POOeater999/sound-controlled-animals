@@ -1,0 +1,41 @@
+body {
+   font-family:MinecrafterAltRegular;
+   background-color: aqua;
+}
+
+.header_div {
+    background-color: blueviolet;
+    color: chartreuse;
+    
+}
+
+p {
+    font-family: fantasy;
+    font-weight: bold;
+    letter-spacing: 2px;
+    font-size: 20px;
+}
+
+
+.btn{
+    font-family: cursive;
+    margin-top: 20px;
+    width: 100px;
+    font-weight: bold;
+    font-size: 20px;
+    letter-spacing: 2px;
+}
+
+#footer {
+    background-color: blanchedalmond;
+    color: black;
+    bottom:0px;
+    position:fixed;
+    width: 100%;
+    font-size: 15px;
+    text-align: center;
+    line-height: 50px;
+    text-shadow: -5px -5px 4px greenyellow;
+    
+
+}
